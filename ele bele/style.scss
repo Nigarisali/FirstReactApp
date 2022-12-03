@@ -1,0 +1,13 @@
+@mixin theme($theme: rgb(58, 124, 148)) {
+  color: $theme;
+}
+
+.info {
+  @include theme;
+}
+.alert {
+  @include theme( rgb(220, 111, 111));
+}
+.success {
+  @include theme( rgb(155, 224, 155));
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Crud-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DANANZ" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TRAFALGAR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/first-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/second-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sign in" vcs="Git" />
+  </component>
+</project>

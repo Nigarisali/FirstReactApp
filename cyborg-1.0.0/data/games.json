@@ -1,0 +1,122 @@
+[
+    {
+        "games_id":1,
+        "games_name":"Fortnite",
+        "inner":[
+            {
+                "id":2,
+                "name":"Fortnite",
+                "text":"Sandbox",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-01.jpg"
+            }
+
+        ]
+    },
+    {
+        "games_id":3,
+        "games_name":"PubG",
+        "inner":[
+            {
+                "id":4,
+                "name":"PubG",
+                "text":"Battle S",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-02.jpg"
+            }
+
+        ]
+    },
+    {
+        "games_id":5,
+        "games_name":"Dota2",
+        "inner":[
+            {
+                "id":6,
+                "name":"Dota2",
+                "text":"Steam-X",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-03.jpg"
+            }
+
+        ]
+    },
+    {
+        "games_id":7,
+        "games_name":"CS-GO",
+        "inner":[
+            {
+                "id":8,
+                "name":"CS-GO",
+                "text":"Legendary",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-04.jpg"
+            }
+
+        ]
+    },
+    {
+        "games_id":9,
+        "games_name":"Mini Craft",
+        "inner":[
+            {
+                "id":10,
+                "name":"Mini Craft",
+                "text":"Legendary",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-05.jpg"
+            }
+
+        ]
+    },
+    {
+        "games_id":11,
+        "games_name":"Eagles Fly",
+        "inner":[
+            {
+                "id":12,
+                "name":"Eagles Fly",
+                "text":"Matrix Games",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-06.jpg"
+            }
+
+        ]
+    },
+    {
+        "games_id":13,
+        "games_name":"Warface",
+        "inner":[
+            {
+                "id":14,
+                "name":"Warface",
+                "text":"Max 3D",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-07.jpg"
+            }
+
+        ]
+    },
+    {
+        "games_id":15,
+        "games_name":"Warcraft",
+        "inner":[
+            {
+                "id":16,
+                "name":"Warcraft",
+                "text":"Legend",
+                "download":"2.3M",
+                "stars":"4.8",
+                "images":"images/popular-08.jpg"
+            }
+
+        ]
+    }
+]
